@@ -1,0 +1,19 @@
+id: A20FEB8B2
+title: Upon Arriving at Yangleshö
+type: translation
+pechas:
+- I3393068B
+- I15F09803
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:49:54.622022
+  last_modified_at: 2023-01-04 12:49:54.622042
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3393068B/FDFF: '8761'
+  I15F09803/E879: '8761'
